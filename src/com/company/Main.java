@@ -17,7 +17,7 @@ public class Main {
         t.addNode(3,1,"right");
         t.addNode(4,2,"right");
 
-       
+
 
     }
 
