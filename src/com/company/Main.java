@@ -17,14 +17,7 @@ public class Main {
         t.addNode(3,1,"right");
         t.addNode(4,2,"right");
 
-       /* for(int i = 0;i<5;i++)
-            if(i%2 == 0)
-                t.addNode((int) ((Math.random() * (10 - 1)) + 1 ), i,"left" );
-            else
-                t.addNode((int) ((Math.random() * (10 - 1)) + 1), i,"rigth" );
-                */
-
-       //System.out.println( (t.calculateLagestValue(t.root)) );
+       
 
     }
 
